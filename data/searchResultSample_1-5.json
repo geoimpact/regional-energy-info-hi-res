@@ -1,0 +1,442 @@
+{
+  "Hist.-Nummer": 12249,
+  "Kanton": "ZH",
+  "Bezirks-nummer": 101,
+  "Bezirksname": "Affoltern",
+  "BFS Gde-nummer": 5,
+  "Gemeindename": "Hedingen",
+  "Datum der Aufnahme": "1848-09-12",
+  "Hedingen": {
+    "kind": "customsearch#search",
+    "url": {
+      "type": "application/json",
+      "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+      "request": [
+        {
+          "title": "Google Custom Search - Hedingen Energie",
+          "totalResults": "42700",
+          "searchTerms": "Hedingen Energie",
+          "count": 10,
+          "startIndex": 1,
+          "inputEncoding": "utf8",
+          "outputEncoding": "utf8",
+          "safe": "off",
+          "cx": "94bc73824cc174ae7"
+        }
+      ],
+      "nextPage": [
+        {
+          "title": "Google Custom Search - Hedingen Energie",
+          "totalResults": "42700",
+          "searchTerms": "Hedingen Energie",
+          "count": 10,
+          "startIndex": 11,
+          "inputEncoding": "utf8",
+          "outputEncoding": "utf8",
+          "safe": "off",
+          "cx": "94bc73824cc174ae7"
+        }
+      ]
+    },
+    "context": {
+      "title": "energy-hackday"
+    },
+    "searchInformation": {
+      "searchTime": 0.43459,
+      "formattedSearchTime": "0.43",
+      "totalResults": "42700",
+      "formattedTotalResults": "42,700"
+    },
+    "items": [
+      {
+        "kind": "customsearch#result",
+        "title": "Energie - Gemeinde Hedingen",
+        "htmlTitle": "Energie - Gemeinde Hedingen",
+        "link": "https://www.hedingen.ch/de/dorfleben/energie/index.php?",
+        "displayLink": "www.hedingen.ch",
+        "snippet": "Die Gemeinde Hedingen hat das Label Energiestadt im Jahr 2008 erhalten und im Jahr 2021 zum dritten Mal erfolgreich rezertifiziert. Sie will in Energiefragen ...",
+        "htmlSnippet": "Die Gemeinde <b>Hedingen</b> hat das Label Energiestadt im Jahr 2008 erhalten und im Jahr 2021 zum dritten Mal erfolgreich rezertifiziert. Sie will in Energiefragen&nbsp;...",
+        "cacheId": "jcTpNKVuU1MJ",
+        "formattedUrl": "https://www.hedingen.ch/de/dorfleben/energie/index.php?",
+        "htmlFormattedUrl": "https://www.<b>hedingen</b>.ch/de/dorfleben/<b>energie</b>/index.php?",
+        "pagemap": {
+          "cse_thumbnail": [
+            {
+              "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSzaeys_dPmamqgyfCr1k6a-693eo5AfVXD2zPkSx9YL2T4PeDElDj0j_Ej",
+              "width": "346",
+              "height": "146"
+            }
+          ],
+          "metatags": [
+            {
+              "apple-itunes-app": "app-id=1324110021",
+              "geo.region": "ch-zh",
+              "viewport": "width=device-width, initial-scale=1",
+              "geo.position": "47.2998800;8.4480230",
+              "geo.placename": "Zürcherstrasse 27, 8908 Hedingen, Schweiz"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://www.hedingen.ch/wAssets/img/Energie/weblication/wThumbnails/Energiestadt.Hedingen-Logo-0813c3aee1f0c11gf86527a4b784df99@2x.jpg"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Werkstatt GmbH Architektur Energie - Knonauer Amt – Home",
+        "htmlTitle": "Werkstatt GmbH Architektur <b>Energie</b> - Knonauer Amt – Home",
+        "link": "https://www.werk-statt.ch/",
+        "displayLink": "www.werk-statt.ch",
+        "snippet": "Ihre Partner für alles rund um Architektur, Bauphysik, Energie im Knonauer Amt ... Herzlich willkommen bei Werkstatt GmbH Architektur Energie in Hedingen.",
+        "htmlSnippet": "Ihre Partner für alles rund um Architektur, Bauphysik, <b>Energie</b> im Knonauer Amt ... Herzlich willkommen bei Werkstatt GmbH Architektur <b>Energie</b> in <b>Hedingen</b>.",
+        "cacheId": "l34IDuoYP2oJ",
+        "formattedUrl": "https://www.werk-statt.ch/",
+        "htmlFormattedUrl": "https://www.werk-statt.ch/",
+        "pagemap": {
+          "metatags": [
+            {
+              "og:image": "https://www.werk-statt.ch",
+              "og:type": "website",
+              "viewport": "width=device-width, initial-scale=1",
+              "og:title": "Werkstatt GmbH Architektur Energie - Knonauer Amt – Home",
+              "og:url": "https://www.werk-statt.ch/",
+              "og:description": "Herzlich willkommen bei Werkstatt GmbH Architektur Energie, Ihre Partner für Architektur, Bauphysik und vieles mehr im Knonauer Amt. Wir freuen uns auf Sie!"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://www.werk-statt.ch"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Energie aus Hedingen",
+        "htmlTitle": "<b>Energie</b> aus <b>Hedingen</b>",
+        "link": "https://www.renercon.ch/dokumente/HED_Anlagenportrait_Doppelseiten.pdf",
+        "displayLink": "www.renercon.ch",
+        "snippet": "Die Energie wird in der Heizzentrale bei der. Schreinerei Girardi zentral produziert. Durch eine Warm- wasserleitung wird die Wärme fertig veredelt direkt ins.",
+        "htmlSnippet": "Die <b>Energie</b> wird in der Heizzentrale bei der. Schreinerei Girardi zentral produziert. Durch eine Warm- wasserleitung wird die Wärme fertig veredelt direkt ins.",
+        "cacheId": "X_HqsoEiRM8J",
+        "formattedUrl": "https://www.renercon.ch/.../HED_Anlagenportrait_Doppelseiten.pdf",
+        "htmlFormattedUrl": "https://www.renercon.ch/.../HED_Anlagenportrait_Doppelseiten.pdf",
+        "pagemap": {
+          "cse_thumbnail": [
+            {
+              "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR5laMFExU3gWCPq0nWBdoR78eX6LVS1xJTBEucClfLMiiNpFSgbb5kCxMB",
+              "width": "257",
+              "height": "196"
+            }
+          ],
+          "metatags": [
+            {
+              "moddate": "D:20181204161657+01'00'",
+              "creationdate": "D:20181204161649+01'00'",
+              "creator": "Adobe InDesign CS6 (Macintosh)",
+              "producer": "Adobe PDF Library 10.0.1"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "x-raw-image:///097a7c8283bb9b0b13eee7fb78fc93176c840c20c690c9749a112fb995afda35"
+            }
+          ]
+        },
+        "mime": "application/pdf",
+        "fileFormat": "PDF/Adobe Acrobat"
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Home - Bauen und renovieren mit der Ernst Schweizer AG",
+        "htmlTitle": "Home - Bauen und renovieren mit der Ernst Schweizer AG",
+        "link": "https://www.ernstschweizer.ch/",
+        "displayLink": "www.ernstschweizer.ch",
+        "snippet": "Bauen und renovieren mit Schweizer. Die Ernst Schweizer AG, ein selbständiges Familienunternehmen mit Sitz in Hedingen, beschäftigt heute 445 Mitarbeiterinnen ...",
+        "htmlSnippet": "Bauen und renovieren mit Schweizer. Die Ernst Schweizer AG, ein selbständiges Familienunternehmen mit Sitz in <b>Hedingen</b>, beschäftigt heute 445 Mitarbeiterinnen&nbsp;...",
+        "cacheId": "jBqmMeGICXEJ",
+        "formattedUrl": "https://www.ernstschweizer.ch/",
+        "htmlFormattedUrl": "https://www.ernstschweizer.ch/",
+        "pagemap": {
+          "cse_thumbnail": [
+            {
+              "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS0wAk_vG8zvA4ad6djAspMDnzwX7AisPbAPTGZf5drjfW0GQfuQetKtA",
+              "width": "338",
+              "height": "114"
+            }
+          ],
+          "metatags": [
+            {
+              "publisher": "internezzo ag, 6343 Rotkreuz, www.internezzo.ch"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://www.ernstschweizer.ch/fileadmin/user_upload/Home/Teaser/Prospektdownload_Teaser.jpg"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Knonauer Amt – Architektur - Werkstatt GmbH Architektur Energie",
+        "htmlTitle": "Knonauer Amt – Architektur - Werkstatt GmbH Architektur Energie",
+        "link": "https://www.werk-statt.ch/bauphysik-architektur",
+        "displayLink": "www.werk-statt.ch",
+        "snippet": "Wir beraten Sie in allen Fragen rund um das Thema Energie und nachhaltiges Bauen. Neubauten. Wir betrachten das Gebäude als Gesamtsystem.",
+        "htmlSnippet": "Wir beraten Sie in allen Fragen rund um das Thema <b>Energie</b> und nachhaltiges Bauen. Neubauten. Wir betrachten das Gebäude als Gesamtsystem.",
+        "cacheId": "_HG90me6e2EJ",
+        "formattedUrl": "https://www.werk-statt.ch/bauphysik-architektur",
+        "htmlFormattedUrl": "https://www.werk-statt.ch/bauphysik-architektur",
+        "pagemap": {
+          "cse_thumbnail": [
+            {
+              "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRssydIEHJHiBO94u7zbJGtXJX-tnYL5KIv91BtpTRkq5WfWpIeauievrE",
+              "width": "259",
+              "height": "194"
+            }
+          ],
+          "metatags": [
+            {
+              "og:image": "https://www.werk-statt.ch",
+              "og:type": "website",
+              "viewport": "width=device-width, initial-scale=1",
+              "og:title": "Werkstatt GmbH Architektur Energie - Knonauer Amt – Architektur",
+              "og:url": "https://www.werk-statt.ch/bauphysik-architektur",
+              "og:description": "Auf dieser Seite finden Sie eine Auswahl der Projekte im Bereich der Architektur der Werkstatt GmbH Architektur Energie. Wir freuen uns auf Sie!"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://www.werk-statt.ch/uploads/9f8U4WVh/737x0_1240x0/KIGA1.jpg"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Ernst Schweizer AG | LinkedIn",
+        "htmlTitle": "Ernst Schweizer AG | LinkedIn",
+        "link": "https://www.linkedin.com/company/ernstschweizer/",
+        "displayLink": "www.linkedin.com",
+        "snippet": "Our two plants are located at Hedingen in the canton of Zurich (our ... nahm auf dem «Grünen Sessel» des energie-cluster.ch Platz und stellte sich den ...",
+        "htmlSnippet": "Our two plants are located at <b>Hedingen</b> in the canton of Zurich (our ... nahm auf dem «Grünen Sessel» des <b>energie</b>-cluster.ch Platz und stellte sich den&nbsp;...",
+        "formattedUrl": "https://www.linkedin.com/company/ernstschweizer/",
+        "htmlFormattedUrl": "https://www.linkedin.com/company/ernstschweizer/",
+        "pagemap": {
+          "cse_thumbnail": [
+            {
+              "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQW16XuAzUkQFfEpUbsbeKOiVKRDBvoyoGJVdu0DrBw08RwGfioAX-YGSI",
+              "width": "200",
+              "height": "200"
+            }
+          ],
+          "metatags": [
+            {
+              "og:image": "https://media-exp2.licdn.com/dms/image/C4E0BAQEvkeSCtCVQmA/company-logo_200_200/0/1556377005726?e=2147483647&v=beta&t=MapcxlWiO_z-Mh7zA4ACrHnrtasjrIIyyRhVP5kS8OE",
+              "og:type": "article",
+              "twitter:card": "summary",
+              "twitter:title": "Ernst Schweizer AG | LinkedIn",
+              "al:ios:app_name": "LinkedIn",
+              "og:title": "Ernst Schweizer AG | LinkedIn",
+              "al:android:package": "com.linkedin.android",
+              "pagekey": "p_org_guest_company_overview",
+              "locale": "en_US",
+              "al:ios:url": "https://ch.linkedin.com/company/ernstschweizer",
+              "og:description": "Ernst Schweizer AG | 1,977 followers on LinkedIn. We are building today for the generation of tomorrow. | Three core competencies under one roof: Ernst Schweizer AG stands for sustainable and innovative solutions for the building shell, smart letter boxes and parcel boxes, and mounting systems for solar energy. We are building today for the generation of tomorrow. That is our mission.",
+              "al:ios:app_store_id": "288429040",
+              "twitter:image": "https://media-exp2.licdn.com/dms/image/C4E0BAQEvkeSCtCVQmA/company-logo_200_200/0/1556377005726?e=2147483647&v=beta&t=MapcxlWiO_z-Mh7zA4ACrHnrtasjrIIyyRhVP5kS8OE",
+              "al:android:url": "https://ch.linkedin.com/company/ernstschweizer",
+              "twitter:site": "@linkedin",
+              "viewport": "width=device-width, initial-scale=1.0",
+              "twitter:description": "Ernst Schweizer AG | 1,977 followers on LinkedIn. We are building today for the generation of tomorrow. | Three core competencies under one roof: Ernst Schweizer AG stands for sustainable and innovative solutions for the building shell, smart letter boxes and parcel boxes, and mounting systems for solar energy. We are building today for the generation of tomorrow. That is our mission.",
+              "og:url": "https://ch.linkedin.com/company/ernstschweizer",
+              "al:android:app_name": "LinkedIn"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://media-exp2.licdn.com/dms/image/C4E0BAQEvkeSCtCVQmA/company-logo_200_200/0/1556377005726?e=2147483647&v=beta&t=MapcxlWiO_z-Mh7zA4ACrHnrtasjrIIyyRhVP5kS8OE"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Klima- und Energie-Erlebnistage: Schweizer Metallbau",
+        "htmlTitle": "Klima- und <b>Energie</b>-Erlebnistage: Schweizer Metallbau",
+        "link": "https://www.ernstschweizer.ch/de/aktuell/news/news-detail/artikel/2021/oct/klima-und-energie-erlebnistage.html",
+        "displayLink": "www.ernstschweizer.ch",
+        "snippet": "Oct 1, 2021 ... September und 1. Oktober fanden in Hedingen in Zusammenarbeit mit der Schule Hedingen und dem renommierten Ökozentrum Langenbruck die Klima- ...",
+        "htmlSnippet": "Oct 1, 2021 <b>...</b> September und 1. Oktober fanden in <b>Hedingen</b> in Zusammenarbeit mit der Schule <b>Hedingen</b> und dem renommierten Ökozentrum Langenbruck die Klima-&nbsp;...",
+        "cacheId": "WujcTRLUOZcJ",
+        "formattedUrl": "https://www.ernstschweizer.ch/de/.../klima-und-energie-erlebnistage.html",
+        "htmlFormattedUrl": "https://www.ernstschweizer.ch/de/.../klima-und-<b>energie</b>-erlebnistage.html",
+        "pagemap": {
+          "cse_thumbnail": [
+            {
+              "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRImw5Nt700eN7Rf6m6bSLjFyfYbfVeFVteO-cDn3Wp5dSKna9uab0Oi6U",
+              "width": "153",
+              "height": "200"
+            }
+          ],
+          "metatags": [
+            {
+              "publisher": "internezzo ag, 6343 Rotkreuz, www.internezzo.ch"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://www.ernstschweizer.ch/typo3temp/_processed_/csm_IMG_8127_dd2946ff86.jpg"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "starte!-Veranstaltung Gemeinde Hedingen | Hoval Schweiz",
+        "htmlTitle": "starte!-Veranstaltung Gemeinde <b>Hedingen</b> | Hoval Schweiz",
+        "link": "https://www.hoval.ch/de_CH/starte%21-Veranstaltung-Gemeinde-Hedingen/event/starte-hedingen",
+        "displayLink": "www.hoval.ch",
+        "snippet": "Egal, ob Sie Ihre Heizung sanieren müssen, die Fassade eine Modernisierung benötigt oder Sie Sonnenenergie nutzen möchten: Mit den Fachvorträgen des kantonalen ...",
+        "htmlSnippet": "Egal, ob Sie Ihre Heizung sanieren müssen, die Fassade eine Modernisierung benötigt oder Sie Sonnenenergie nutzen möchten: Mit den Fachvorträgen des kantonalen&nbsp;...",
+        "cacheId": "H0o3VoQIBycJ",
+        "formattedUrl": "https://www.hoval.ch/de_CH/starte%21...Hedingen/event/starte-hedingen",
+        "htmlFormattedUrl": "https://www.hoval.ch/de_CH/starte%21...<b>Hedingen</b>/event/starte-<b>hedingen</b>",
+        "pagemap": {
+          "cse_thumbnail": [
+            {
+              "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn1XnqNxlyGOxSJ_WmnEVTDF4SYDoJSYmjcWUJ1tH0dTPotqwi6oU7Tdk",
+              "width": "268",
+              "height": "188"
+            }
+          ],
+          "metatags": [
+            {
+              "theme-color": "#e2001a",
+              "apple-mobile-web-app-status-bar-style": "#e2001a",
+              "viewport": "width=device-width, initial-scale=1, user-scalable=no",
+              "_csrf": "f6e9accf-9cbb-4463-90e2-a929219c516c",
+              "msapplication-navbutton-color": "#e2001a",
+              "format-detection": "telephone=no"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://www.hoval.ch/medias/HoCH-starte-veranstaltung-Gemeinde-Hedingen.jpg?context=bWFzdGVyfHJvb3R8MTEwODg3fGltYWdlL2pwZWd8aDZjL2hjNC85NjEyODY0Mzg5MTUwL0hvQ0hfc3RhcnRlLXZlcmFuc3RhbHR1bmdfR2VtZWluZGUgSGVkaW5nZW4uanBnfDY1Y2UxZjNhOGFjYTMzZmY1YzI3YWM5ZjJjZmI4YjdmYTRmZWZlODU0ZDIyNWY5YjhhOTMwNzQ1NTZlZjljNDQ"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Energieplanung Hedingen",
+        "htmlTitle": "Energieplanung <b>Hedingen</b>",
+        "link": "https://www.schulehedingen.ch/wAssets/Energie/Energieplanung_2012.03.13_Bericht.pdf",
+        "displayLink": "www.schulehedingen.ch",
+        "snippet": "Mar 13, 2012 ... die Wärmebezugsdichte des Siedlungsgebietes sowie die vorhandenen Energie- potenziale abgeschätzt. 2.1 Energiebilanz Hedingen.",
+        "htmlSnippet": "Mar 13, 2012 <b>...</b> die Wärmebezugsdichte des Siedlungsgebietes sowie die vorhandenen <b>Energie</b>- potenziale abgeschätzt. 2.1 Energiebilanz <b>Hedingen</b>.",
+        "cacheId": "rb9OxB9GzrkJ",
+        "formattedUrl": "https://www.schulehedingen.ch/.../Energie/Energieplanung_2012.03.13_ Bericht.pdf",
+        "htmlFormattedUrl": "https://www.schule<b>hedingen</b>.ch/.../<b>Energie</b>/<b>Energie</b>planung_2012.03.13_ Bericht.pdf",
+        "pagemap": {
+          "cse_thumbnail": [
+            {
+              "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdt9oq-dcg1HrGr8Lw7XkulXp9KcOtlLpTe9-qAVe3T4tAPVIt_UyiEZo",
+              "width": "259",
+              "height": "194"
+            }
+          ],
+          "metatags": [
+            {
+              "moddate": "D:20120229105735+01'00'",
+              "creationdate": "D:20120228094004Z",
+              "creator": "Microsoft Word",
+              "author": "Giulia Oswald",
+              "producer": "Mac OS X 10.6.8 Quartz PDFContext",
+              "title": "Microsoft Word - HE02_EplanBericht_120313.docx"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "x-raw-image:///f0384b61383ae07cbbfd131c534c7221860a738a10cab96da1ede343eadba8b0"
+            }
+          ]
+        },
+        "mime": "application/pdf",
+        "fileFormat": "PDF/Adobe Acrobat"
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Werkstatt GmbH Architekturbüro in Hedingen - Öffnungszeiten ...",
+        "htmlTitle": "Werkstatt GmbH Architekturbüro in <b>Hedingen</b> - Öffnungszeiten ...",
+        "link": "https://www.local.ch/de/d/hedingen/8908/architekturbuero/werkstatt-gmbh-fFG1jj24D1zLSfWvCMK-5g",
+        "displayLink": "www.local.ch",
+        "snippet": "Werkstatt GmbH. ArchitekturbüroBauphysikEnergieAkustikLärmschutzGebäudeakustikEnergieberatung. Architektur, Bauphysik, Energie- und Schallberechnungen.",
+        "htmlSnippet": "Werkstatt GmbH. ArchitekturbüroBauphysik<b>Energie</b>AkustikLärmschutzGebäudeakustikEnergieberatung. Architektur, Bauphysik, <b>Energie</b>- und Schallberechnungen.",
+        "cacheId": "i7H7iIeUZtMJ",
+        "formattedUrl": "https://www.local.ch/.../hedingen/.../werkstatt-gmbh- fFG1jj24D1zLSfWvCMK-5g",
+        "htmlFormattedUrl": "https://www.local.ch/.../<b>hedingen</b>/.../werkstatt-gmbh- fFG1jj24D1zLSfWvCMK-5g",
+        "pagemap": {
+          "cse_thumbnail": [
+            {
+              "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST2HlJs_0yN4qGaPN9xBBRQTr9byJXDPIO8of79oZrzoyIF7X5UhvWZA",
+              "width": "339",
+              "height": "91"
+            }
+          ],
+          "postaladdress": [
+            {
+              "addresslocality": "Hedingen",
+              "postalcode": "8908",
+              "streetaddress": "Affolternstrasse 7"
+            }
+          ],
+          "metatags": [
+            {
+              "msapplication-tilecolor": "#009ee3",
+              "og:image": "https://bin.staticlocal.ch/localplace-logo/fb/fb525ff4c4ddf5d7042b56cb58d92faf810117ff/2019-10-24_18-06-00.png",
+              "theme-color": "#009ee3",
+              "og:type": "website",
+              "og:title": "Werkstatt GmbH",
+              "csrf-param": "authenticity_token",
+              "msapplication-tileimage": "https://www.local.ch/details/assets/local_favicon/local_icon_192-eb4c9f2cc9ef80fb69621dd20c28a187a2d5dced852c00f208fd0ba28a0084f9.png",
+              "apple-mobile-web-app-status-bar-style": "#009ee3",
+              "og:locale:alternate": "en",
+              "viewport": "width=device-width, initial-scale=1.0",
+              "csrf-token": "dkOPU/kFqi8ri9K0AFYRkR3VlFJwKkBZxRiPZTlDul2ggA7ax7K8ejKQuYlUcJ0bp/9VrJBUU30MDSlGCJBLBw==",
+              "og:locale": "de",
+              "og:url": "https://www.local.ch/de/d/hedingen/8908/architekturbuero/werkstatt-gmbh-fFG1jj24D1zLSfWvCMK-5g"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://bin.staticlocal.ch/localplace-logo/fb/fb525ff4c4ddf5d7042b56cb58d92faf810117ff/2019-10-24_18-06-00.png"
+            }
+          ],
+          "localbusiness": [
+            {
+              "image": "https://images.services.local.ch/bp/localplace-images/68/68e7badc53e6ade9380684a27d760595d8d12cf2/2020-11-16_10-18-29.jpg?center=0.500000%2C0.577446&scale=crop&size=768x198&v=1&sig=21b96c945835cc93606facf6ae8600e63a171728a0551c03dd00cf182c2e0872",
+              "name": "Werkstatt GmbH",
+              "logo": "https://images.services.local.ch/bp/localplace-logo/fb/fb525ff4c4ddf5d7042b56cb58d92faf810117ff/2019-10-24_18-06-00.png?center=0.5%2C0.5&scale=fit&size=140x100&v=1&sig=538489f9835e373adb2933c6c4ef56301428ae8b21aaaa13f2c8957a264d736d",
+              "description": "Sanierung und ErweiterungUnsere Aufgabe umfasst die Analyse des bestehenden Gebäudes und die Planung nach den Bedürfnissen und Wünschen der Bauherrschaft. Die Lösungsfindung ist ein Prozess,...",
+              "telephone": "043 255 99 00",
+              "url": "https://www.local.ch/de/d/hedingen/8908/architekturbuero/werkstatt-gmbh-fFG1jj24D1zLSfWvCMK-5g",
+              "email": "info@werk-statt.ch"
+            }
+          ],
+          "geocoordinates": [
+            {
+              "latitude": "47.296553",
+              "longitude": "8.448926"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
