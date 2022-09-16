@@ -28,6 +28,7 @@ async function requestScraping(url, body){
 
 function Scrape() {
     const [data, setData] = useState(null);
+    const [progress, setProgress] = useState(0);
     useEffect(() => {
 
     }, [])
@@ -58,10 +59,11 @@ function Scrape() {
             await requestScraping(backendUrl, {
                 url: provider.Link
             }).catch(e => e.response);
+            setProgress(i);
         }
     }
     return (
-        <Card id={"App"} maxWidth={"xl"} style={{
+        <Card id={"App"} style={{
             display: "flex",
             flexDirection: "column",
             flex: 1,
@@ -70,25 +72,25 @@ function Scrape() {
         }}>
             <Typography variant={"h6"}>Service Providers</Typography>
             <TextareaAutosize
+                value={providers.map(p => p.Link).join("\n")}
                 maxRows={10}
                 style={{
                     minWidth: "400px",
                     minHeight: "200px",
                     maxHeight: "300px"
                 }}>
-                {providers.map(p => p.Link).join("\n")}
             </TextareaAutosize>
             <Typography variant={"h6"}>Municipalities</Typography>
             <TextareaAutosize
+                value={"Municipalities"}
                 maxRows={10}
                 style={{
                     minWidth: "400px",
                     minHeight: "200px",
                     maxHeight: "300px"
                 }}>
-                Municipalities
             </TextareaAutosize>
-            <Container maxWidth="xl" style={{
+            <Container style={{
                 display: "flex",
                 flexDirection: "column",
                 flex: 1,
@@ -100,6 +102,7 @@ function Scrape() {
                 }}>
                     scan
                 </Button>
+                <div>{progress}/{providers.length}</div>
             </Container>
         </Card>
     );

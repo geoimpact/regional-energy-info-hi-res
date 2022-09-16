@@ -15,17 +15,25 @@ const cors = require('cors');
     // parse application/json
     app.use(bodyParser.json())
     app.post('/', async (req, res) => {
-        const page = await browser.newPage();
-        await page.goto(req.body.url);
-        const extractedText = await page.$eval('*', (el) => el.innerText);
-        const htmlText = await page.$eval("body", (el) => {
-            return el.innerHTML
-        })
-        res.send({
-            meta: req.body,
-            text: extractedText,
-            html: htmlText
-        });
+        try{
+            const page = await browser.newPage();
+            await page.goto(req.body.url);
+            // await page.waitForNavigation({waitUntil: 'networkidle2'})
+            const extractedText = await page.$eval('*', (el) => el.innerText);
+            const htmlText = await page.$eval("body", (el) => {
+                return el.innerHTML
+            })
+            res.send({
+                meta: req.body,
+                text: extractedText,
+                html: htmlText
+            });
+        } catch (e){
+            res.status(500).send({
+                meta: req.body,
+                error: e
+            });
+        }
     })
     app.listen(port, () => {
         console.log(`Example app listening on port ${port}`)
