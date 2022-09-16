@@ -1,13 +1,8 @@
 [
     {
-        "Name": "name",
-        "Municipality": "gemeinde",
-        "Link": "link"
-    },
-    {
         "Name": "Elektra-Genossenschaft Guntershausen",
         "Municipality": "Aadorf",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "Eniwa AG",
@@ -562,7 +557,7 @@
     {
         "Name": "Elektra - Genossenschaft Baldingen",
         "Municipality": "Baldingen",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "Acqua Gas Elettricità SA Chiasso",
@@ -692,7 +687,7 @@
     {
         "Name": "Azienda Elettrica Comunale Bedretto",
         "Municipality": "Bedretto",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "Elektrizitätswerk des Kantons Schaffhausen AG EKS",
@@ -717,7 +712,7 @@
     {
         "Name": "Technische Betriebe Beinwil am See",
         "Municipality": "Beinwil am See",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "Groupe E SA",
@@ -737,7 +732,7 @@
     {
         "Name": "Elektra-Genossenschaft Bellikon-Hausen",
         "Municipality": "Bellikon",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "Aziende Municipalizzate Bellinzona",
@@ -852,7 +847,7 @@
     {
         "Name": "Elektra Walzenhausen",
         "Municipality": "Berneck",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "Services Industriels de Genève SIG",
@@ -972,7 +967,7 @@
     {
         "Name": "Elektrizitätsgenossenschaft Binn",
         "Municipality": "Binn",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "Primeo Energie",
@@ -1217,7 +1212,7 @@
     {
         "Name": "Commune de Bourg-St-Pierre",
         "Municipality": "Bourg-Saint-Pierre",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "Romande Energie SA",
@@ -1652,7 +1647,7 @@
     {
         "Name": "Elektra - Genossenschaft Waldhäusern",
         "Municipality": "Bünzen",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "VED Visp Energie Dienste AG",
@@ -1672,7 +1667,7 @@
     {
         "Name": "Energieversorgung Ost der Gemeinde Bürglen",
         "Municipality": "Bürglen (TG)",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "Elektrizitätswerk Altdorf AG",
@@ -1727,7 +1722,7 @@
     {
         "Name": "Azienda Elettrica Cama",
         "Municipality": "Cama",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "Società Elettrica Sopracenerina SA (Ticino)",
@@ -2542,7 +2537,7 @@
     {
         "Name": "Elektrizitätsversorgung Dintikon",
         "Municipality": "Dintikon",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "Repower AG",
@@ -2812,7 +2807,7 @@
     {
         "Name": "Elektra Steinebrunn",
         "Municipality": "Egnach",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "CKW AG",
@@ -3257,7 +3252,7 @@
     {
         "Name": "Elektra-Genossenschaft Fischbach-Göslikon",
         "Municipality": "Fischbach-Göslikon",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "Elektrizitätswerke des Kantons Zürich EKZ",
@@ -3267,7 +3262,7 @@
     {
         "Name": "Elektrizitäts-Genossenschaft Vogelsang",
         "Municipality": "Fischingen",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "AEW Energie AG",
@@ -3307,7 +3302,7 @@
     {
         "Name": "EVU Flums AG",
         "Municipality": "Flums",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "Elektrizitätswerke des Kantons Zürich EKZ",
@@ -3467,7 +3462,7 @@
     {
         "Name": "Werkbetriebe Kefikon",
         "Municipality": "Gachnang",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "St.Gallisch-Appenzellische Kraftwerke AG SAK",
@@ -3737,7 +3732,7 @@
     {
         "Name": "Politische Gemeinde Gottlieben",
         "Municipality": "Gottlieben",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "Romande Energie SA",
@@ -3852,7 +3847,7 @@
     {
         "Name": "Elektra Gretzenbach AG",
         "Municipality": "Gretzenbach",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "Oiken SA",
@@ -4132,7 +4127,7 @@
     {
         "Name": "Elektra-Korporation EKW",
         "Municipality": "Heiden",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "BKW Energie AG",
@@ -4602,7 +4597,7 @@
     {
         "Name": "Elektra-Genossenschaft Arni-Islisberg",
         "Municipality": "Islisberg",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "Azienda Elettrica Massagno SA",
@@ -4657,7 +4652,7 @@
     {
         "Name": "Elektrizitätsgenossenschaft Jonen",
         "Municipality": "Jonen",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "Romande Energie SA",
@@ -4902,7 +4897,7 @@
     {
         "Name": "Genossenschaft Elektra Koppigen - Willadingen",
         "Municipality": "Koppigen",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "Elektrizitätswerk Kradolf-Schönenberg",
@@ -4947,7 +4942,7 @@
     {
         "Name": "EWK Energie AG",
         "Municipality": "Kölliken",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "BKW Energie AG",
@@ -5047,7 +5042,7 @@
     {
         "Name": "Services Industriels Neuveville",
         "Municipality": "La Neuveville",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "Romande Energie SA",
@@ -5222,7 +5217,7 @@
     {
         "Name": "Elektrizitätsgenossenschaft Moosegg",
         "Municipality": "Lauperswil",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "Service de l' Electricité de la Ville de Lausanne SIL",
@@ -5572,7 +5567,7 @@
     {
         "Name": "Azienda Elettrica Lostallo",
         "Municipality": "Lostallo",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "Primeo Energie (AVAG)",
@@ -5602,7 +5597,7 @@
     {
         "Name": "Elektrizitäts - Genossenschaft Lufingen",
         "Municipality": "Lufingen",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "Aziende Industriali di Lugano SA AIL",
@@ -5682,7 +5677,7 @@
     {
         "Name": "Elektra-Korporation EKW",
         "Municipality": "Lutzenberg",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "Repower AG",
@@ -5722,7 +5717,7 @@
     {
         "Name": "Elektra Nennigkofen Genossenschaft",
         "Municipality": "Lüsslingen-Nennigkofen",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "Regio Energie Solothurn",
@@ -5752,7 +5747,7 @@
     {
         "Name": "Elektrizitätsversorgung Madiswil",
         "Municipality": "Madiswil",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "Repower AG",
@@ -5792,7 +5787,7 @@
     {
         "Name": "Steiner Energie AG",
         "Municipality": "Malters",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "Elektrizitätswerk der Gemeinde Mammern",
@@ -5912,7 +5907,7 @@
     {
         "Name": "Elektra-Korporation Dingenhart",
         "Municipality": "Matzingen",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "Romande Energie SA",
@@ -6007,7 +6002,7 @@
     {
         "Name": "Elektrizitätswerk Mellingen",
         "Municipality": "Mellingen",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "Elektrizitäts- & Wasserwerk Mels",
@@ -6067,7 +6062,7 @@
     {
         "Name": "Azienda Elettrica Comunale Mesocco",
         "Municipality": "Mesocco",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "Genossenschaft Elektra Jegenstorf",
@@ -6552,7 +6547,7 @@
     {
         "Name": "Elektrokorporation Lutenwil",
         "Municipality": "Nesslau",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "Viteos SA",
@@ -6687,7 +6682,7 @@
     {
         "Name": "Elektrizitätswerk Niederwil",
         "Municipality": "Niederwil (AG)",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "onyx Energie Netze AG",
@@ -6697,7 +6692,7 @@
     {
         "Name": "Services techniques de Nods",
         "Municipality": "Nods",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "CKW AG",
@@ -6802,7 +6797,7 @@
     {
         "Name": "Elektra Walzenhausen",
         "Municipality": "Oberegg",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "Elektrizitätswerke des Kantons Zürich EKZ",
@@ -6867,7 +6862,7 @@
     {
         "Name": "Elektra Aeschlen-Linden-Heimenschwand",
         "Municipality": "Oberhünigen",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "Elektrizitätswerk Schwyz",
@@ -7152,7 +7147,7 @@
     {
         "Name": "Elektrizitätsgenossenschaft Otelfingen",
         "Municipality": "Otelfingen",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "AEW Energie AG",
@@ -7187,7 +7182,7 @@
     {
         "Name": "Services industriels de Paudex",
         "Municipality": "Paudex",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "Groupe E SA",
@@ -7292,7 +7287,7 @@
     {
         "Name": "Commune de Lamboing",
         "Municipality": "Plateau de Diesse",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "BKW Energie AG",
@@ -7507,7 +7502,7 @@
     {
         "Name": "Elektrizitätswerk Randa AG",
         "Municipality": "Randa",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "Elektrizitätswerk Raperswilen",
@@ -7532,7 +7527,7 @@
     {
         "Name": "Elektrizitätswerk Ursern",
         "Municipality": "Realp",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "Elektrizitätsversorgung Rebstein",
@@ -7592,7 +7587,7 @@
     {
         "Name": "Elektra Reigoldswil",
         "Municipality": "Reigoldswil",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "EWS Energie AG",
@@ -7652,7 +7647,7 @@
     {
         "Name": "Elektrokorporation Reute",
         "Municipality": "Reute (AR)",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "BKW Energie AG",
@@ -7667,7 +7662,7 @@
     {
         "Name": "WERKE Rheineck",
         "Municipality": "Rheineck",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "AEW Energie AG",
@@ -7712,12 +7707,12 @@
     {
         "Name": "Elektrizitätsversorgung der Politischen Gemeinde Rickenbach",
         "Municipality": "Rickenbach (TG)",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "Elektrizitätswerk Rickenbach",
         "Municipality": "Rickenbach (ZH)",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "Service électrique intercommunal S.A.",
@@ -8057,7 +8052,7 @@
     {
         "Name": "Elektra Aeschlen-Linden-Heimenschwand",
         "Municipality": "Röthenbach im Emmental",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "BKW Energie AG",
@@ -8132,7 +8127,7 @@
     {
         "Name": "Elektra Rüthi",
         "Municipality": "Rüthi (SG)",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "Gemeindewerke Rüti",
@@ -8177,7 +8172,7 @@
     {
         "Name": "Elektrizitätsgenossenschaft Saas Balen",
         "Municipality": "Saas-Balen",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "Elektrizitätswerk der Gemeinde Saas-Fee",
@@ -8337,7 +8332,7 @@
     {
         "Name": "Elektra Salmsach",
         "Municipality": "Salmsach",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "Service électrique intercommunal S.A.",
@@ -8357,7 +8352,7 @@
     {
         "Name": "Società Semplice Comuni Concedenti Elin",
         "Municipality": "San Vittore",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "Aziende Municipalizzate Bellinzona",
@@ -8452,7 +8447,7 @@
     {
         "Name": "Elektrizitätsgenossenschaft Schangnau",
         "Municipality": "Schangnau",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "Elektrizitätswerk der Gemeinde Scharans",
@@ -8557,7 +8552,7 @@
     {
         "Name": "Wasser-/ Elektrizitätswerk der Gemeinde Schmitten",
         "Municipality": "Schmitten (GR)",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "AEW Energie AG",
@@ -8862,7 +8857,7 @@
     {
         "Name": "Stromversorgung Simplon-Dorf",
         "Municipality": "Simplon",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "Elektra Sins",
@@ -8907,7 +8902,7 @@
     {
         "Name": "Azienda Elettrica Comunale Soazza",
         "Municipality": "Soazza",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "Regio Energie Solothurn",
@@ -9012,7 +9007,7 @@
     {
         "Name": "Elektrizitätsversorgung Ried",
         "Municipality": "St. Stephan",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "Groupe E SA",
@@ -9047,7 +9042,7 @@
     {
         "Name": "EDSR Energiedienste Staldenried AG",
         "Municipality": "Staldenried",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "Elektrizitätswerke des Kantons Zürich EKZ",
@@ -9112,7 +9107,7 @@
     {
         "Name": "Elektrizitätsversorgung Steinach",
         "Municipality": "Steinach",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "Elektrizitätswerk des Bezirks Schwyz AG",
@@ -9192,7 +9187,7 @@
     {
         "Name": "Energieversorgungsstelle Sufers",
         "Municipality": "Sufers",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "Technische Betriebe Suhr",
@@ -9397,7 +9392,7 @@
     {
         "Name": "Energieversorgungsstelle Thusis",
         "Municipality": "Thusis",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "Services Industriels de Genève SIG",
@@ -9497,7 +9492,7 @@
     {
         "Name": "Service électricité de la commune de Trient",
         "Municipality": "Trient",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "Primeo Energie (AVAG)",
@@ -9567,7 +9562,7 @@
     {
         "Name": "Elektrizitätswerk der Gemeinde Tschiertschen-Praden",
         "Municipality": "Tschiertschen-Praden",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "BKW Energie AG",
@@ -9632,7 +9627,7 @@
     {
         "Name": "EVWR Energiedienste Visp-Westlich Raron AG",
         "Municipality": "Törbel",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "Elektra Tübach",
@@ -10157,7 +10152,7 @@
     {
         "Name": "Gemeindeverwaltung Vorderthal",
         "Municipality": "Vorderthal",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "Romande Energie SA",
@@ -10332,7 +10327,7 @@
     {
         "Name": "Elektra Walzenhausen",
         "Municipality": "Walzenhausen",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "Elektrizitätswerk der Gemeinde Wangen",
@@ -10362,7 +10357,7 @@
     {
         "Name": "Dorfkorporation Oberschan",
         "Municipality": "Wartau",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "Gemeinde Warth-Weiningen",
@@ -10387,7 +10382,7 @@
     {
         "Name": "Elektrogenossenschaft Ulisbach",
         "Municipality": "Wattwil",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "CKW AG",
@@ -10412,7 +10407,7 @@
     {
         "Name": "Elektrizitäts- Genossenschaft Weiach",
         "Municipality": "Weiach",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "Technische Betriebe Weinfelden AG",
@@ -10472,7 +10467,7 @@
     {
         "Name": "Elektra Widen Betriebs AG",
         "Municipality": "Widen",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "Elektrizitätsversorgung der Gemeinde Widnau",
@@ -10542,7 +10537,7 @@
     {
         "Name": "Politische Gemeinde Wilen",
         "Municipality": "Wilen (TG)",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "EVTL EnergieVersorgung Talschaft Lötschen AG",
@@ -10572,7 +10567,7 @@
     {
         "Name": "Elektra Hergiswil-Dorf",
         "Municipality": "Willisau",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "BKW Energie AG",
@@ -10657,7 +10652,7 @@
     {
         "Name": "Elektra-Korporation EKW",
         "Municipality": "Wolfhalden",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "Elektra Wolfwil",
@@ -10677,7 +10672,7 @@
     {
         "Name": "Licht- und Kraftgenossenschaft Richigen",
         "Municipality": "Worb",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "BKW Energie AG",
@@ -10787,7 +10782,7 @@
     {
         "Name": "Elektrizitätsgenossenschaft Zeneggen",
         "Municipality": "Zeneggen",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "Elektrizitätswerk Zermatt AG",
@@ -10897,7 +10892,7 @@
     {
         "Name": "Elektrizitätsversorgung Ried",
         "Municipality": "Zweisimmen",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "BKW Energie AG",
@@ -10912,7 +10907,7 @@
     {
         "Name": "Stromversorgung Gondo",
         "Municipality": "Zwischbergen",
-        "Link": "NULL"
+        "Link": null
     },
     {
         "Name": "BKW Energie AG",
